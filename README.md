@@ -33,6 +33,6 @@ This project analyzes the data from the Indian Premier League (IPL) 2025 season 
 ## 🔹 Key Insights
 - Dominant teams identified based on wins  
 - Winning margins reveal match competitiveness  
-- 
+
 
 ---
